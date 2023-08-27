@@ -8,7 +8,7 @@ Welcome to my Data Science journey repository! Here's an overview of the content
 
 
 
-## Contact Me
+### Contact Me
 Feel free to connect with me or reach out for collaborations:
 
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/lhakimnazri/)
