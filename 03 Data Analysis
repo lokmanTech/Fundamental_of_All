@@ -18,4 +18,25 @@ refer the graph here: https://github.com/lokmanTech/01_Introduction_to_Data_Scie
 
 WHAT DOES THE SALES FUNNEL LOOK LIKE AND WHERE DO VISITORS DROP OUT?
 Together with the webshop we identified the processes a visitor goes through until the purchase is done. Using Google Analytics and the own systems of the webshop we were able to check which visitors visit the website and which process they go through.
-refer the image here: 
+refer the image here: https://github.com/lokmanTech/01_Introduction_to_Data_Science/blob/2e4f4d944b168fb0f73495e7410ce274476ae7ce/03.2%20Sales%20Funnel%20Performance.png
+
+More than 60% of the visitors visit the website via organic search, these are visitors who found the website via a search engine. 14% of the traffic comes from visitors who entered the website themselves in the browser, followed by e-mail (9%), social (5%), referral (3%) and other (6%).
+
+When visitors reached the website, I found three situations in the order process where people often do not complete their order. For each situation I looked at how to improve this.
+
+People add products to their shopping cart, but they do not view the contents of the total basket (loss of 2.6% of the visitors).
+Solution: display the icon of the shopping basket more prominently and if there are at least two items in the shopping cart, display a pop-up to navigate to the total shopping basket.
+After people viewed their total shopping basket, 2.2% leaves the website during the process of logging in or creating an account.
+Solution: people can also pay as a guest without creating an account.
+1% of the visitors leave the order process after they saw the total order amount. The two most common causes are unexpected costs (delivery costs) or unaccepted voucher codes.
+Solution: mention delivery costs clearly on the website and show the telephone number if a voucher code is not accepted.
+By making the above adjustments, the number of orders can increase by a maximum of 5.8%.
+
+WHICH CHANNELS ARE MOST EFFECTIVE?
+When I look further into the ordering process, I found visitors who reach the website via e-mail are more likely to place an order. One reason for this is that people are automatically logged in on the website after clicking on the e-mail. Therefore, the percentage of people who leave the ordering process between viewing the shopping basket and checking the delivery data is much lower.
+
+E-mails are especially effective around special days. The graph below shows that more orders are placed around Mother’s Day and Father’s Day because of an e-mail.
+
+At the moment, there is no clear e-mail strategy within the company. As a result of this research, an e-mail strategy is set up which takes into account the frequency of the e-mails, the moment of send out, a clear CTA and an appropriate discount.
+
+
