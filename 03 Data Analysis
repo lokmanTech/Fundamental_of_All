@@ -38,5 +38,12 @@ When I look further into the ordering process, I found visitors who reach the we
 E-mails are especially effective around special days. The graph below shows that more orders are placed around Mother’s Day and Father’s Day because of an e-mail.
 
 At the moment, there is no clear e-mail strategy within the company. As a result of this research, an e-mail strategy is set up which takes into account the frequency of the e-mails, the moment of send out, a clear CTA and an appropriate discount.
+refer the image here: https://github.com/lokmanTech/01_Introduction_to_Data_Science/blob/7b8672a0b572f42b261ba8e14dd55cdd351241bd/03.3%20Order%20Per%20Channels.png
+
+WHAT IS THE AVERAGE ORDER SIZE?
+We would like to increase the number of orders, but it is also interesting to increase the number of items per order. That’s why I looked at the number of items ordered per channel.
+
+The average order size is 1.4 items per order. Social is a channel where people do not often place an order, but the average order size is high, followed by referrals and e-mail.
+
 
 
