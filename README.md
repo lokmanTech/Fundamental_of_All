@@ -1,4 +1,4 @@
-# 01 Introduction to Data Science
+# 01 Fundamental of All
 Welcome to my Data Science journey repository! Here's an overview of the content:
 
 - [01 Learning Objective](https://github.com/lokmanTech/01_Introduction_to_Data_Science/blob/main/01%20Learning%20Objective)
