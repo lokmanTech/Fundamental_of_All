@@ -9,6 +9,6 @@ Welcome to my Data Science Journey repository! Here's an overview of the content
 
 
 <h2 align="center">Lokman Hakim - Tech Enthusiast and Explorer</h2>
-<p align="center">Greetings! I'm currently in the process of transitioning from a background in Project Architecture and Design to exploring the exciting realm of Data Science. This journey has opened up a world of intriguing possibilities, and I'm enthusiastic about connecting with individuals who share a similar passion for data, Python, and the limitless opportunities they offer. If you're interested in discussing the captivating field of data science, I'd love to connect and engage in a meaningful conversation.</p>
+<p align="center">Welcome to my GitHub space! I'm Lokman Hakim who is passionate about tech and thrives on the thrill of exploring new horizons in the ever-evolving world of technology. Here, you'll find a collection of my projects, experiments, and ongoing learning journeys in tech domains.</p>
 
 [![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
