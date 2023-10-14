@@ -1,4 +1,3 @@
-![Lokman Hakim Portfolio](https://lokmantech.github.io/img/profile/profile.png)
 
 # 01 Fundamental of All
 Welcome to my Data Science Journey repository! Here's an overview of the content:
@@ -17,4 +16,5 @@ Feel free to reach out to me on:
 
 Happy coding and analyzing!
 
+![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)
 ## Lokman Hakim
