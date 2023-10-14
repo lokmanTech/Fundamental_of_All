@@ -1,3 +1,5 @@
+![Lokman Hakim Portfolio](https://lokmanTech.github.io)
+
 # 01 Fundamental of All
 Welcome to my Data Science Journey repository! Here's an overview of the content:
 
