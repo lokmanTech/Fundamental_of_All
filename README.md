@@ -12,6 +12,7 @@ Welcome to my Data Science Journey repository! Here's an overview of the content
 Happy coding and analyzing!
 
 <h2 align="center">I'm Lokman Hakim</h2>
-<p align="center">Hello there! I'm making a fascinating shift from Project Architect to Data Scientist. With a background in project management and design, I'm now diving into the dynamic world of data science. I'm eager to connect, learn, and explore this new path. If you share a passion for data, Python, and the endless possibilities they bring, let's connect and have a conversation about the incredible world of data science.</p>
+<span style="background: linear-gradient(45deg, #FF00FF, #800080, #FF00FF);-webkit-background-clip: text;color: transparent;">Your Text Goes Here</span>
+<p align="center">Greetings! I'm currently in the process of transitioning from a background in Project Architecture and Design to exploring the exciting realm of Data Science. This journey has opened up a world of intriguing possibilities, and I'm enthusiastic about connecting with individuals who share a similar passion for data, Python, and the limitless opportunities they offer. If you're interested in discussing the captivating field of data science, I'd love to connect and engage in a meaningful conversation.</p>
 
 [![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
