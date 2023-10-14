@@ -16,5 +16,5 @@ Feel free to reach out to me on:
 
 Happy coding and analyzing!
 
-[![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
 <h2 align="center">Lokman Hakim</h2>
+[![Lokman Hakim Portfolio](https://lokmantech.github.io/img/footer/Footer.png)](https://lokmantech.github.io)
