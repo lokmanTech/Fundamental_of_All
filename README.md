@@ -1,4 +1,4 @@
-<img src="https://lokmantech.github.io" alt="Lokman Hakim Portfolio" width="300">
+![Lokman Hakim Portfolio](https://lokmantech.github.io/img/profile/profile.png)
 
 # 01 Fundamental of All
 Welcome to my Data Science Journey repository! Here's an overview of the content:
